@@ -1,0 +1,33 @@
+
+Stat output for Traffic Generator: #1.
+Generator was responsible for 190 cars.
+The Maximum time taken was: 77 seconds.
+The Minimum time taken was: 1 seconds.
+The Mean time was: 20 seconds.
+The Variance was: 268
+And Standard Deviation was: 16.3707055437449
+
+Stat output for Traffic Generator: #2.
+Generator was responsible for 40 cars.
+The Maximum time taken was: 30 seconds.
+The Minimum time taken was: 1 seconds.
+The Mean time was: 12 seconds.
+The Variance was: 149
+And Standard Deviation was: 12.206555615733702
+
+Stat output for Traffic Generator: #3.
+Generator was responsible for 10 cars.
+The Maximum time taken was: 35 seconds.
+The Minimum time taken was: 11 seconds.
+The Mean time was: 26 seconds.
+The Variance was: 65
+And Standard Deviation was: 8.06225774829855
+
+Stat output for Traffic Generator: #4.
+Generator was responsible for 45 cars.
+The Maximum time taken was: 23 seconds.
+The Minimum time taken was: 7 seconds.
+The Mean time was: 15 seconds.
+The Variance was: 24
+And Standard Deviation was: 4.898979485566356
+
